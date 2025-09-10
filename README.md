@@ -1,5 +1,5 @@
 # Howdi 👋
-##third-rate coder with first-rate access
+third-rate coder with first-rate access
 <!--
 **BBC-News-Uncle/BBC-News-Uncle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
